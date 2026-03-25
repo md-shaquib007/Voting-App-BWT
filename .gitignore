@@ -1,0 +1,2 @@
+"node_modules/" 
+".env"   # It's also good practice to ignore .env files!
